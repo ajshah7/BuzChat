@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BuzChat/static/css/main.ac7051c4.chunk.css",
+    "main.js": "/BuzChat/static/js/main.e67cf0b1.chunk.js",
+    "main.js.map": "/BuzChat/static/js/main.e67cf0b1.chunk.js.map",
+    "runtime-main.js": "/BuzChat/static/js/runtime-main.3a66e436.js",
+    "runtime-main.js.map": "/BuzChat/static/js/runtime-main.3a66e436.js.map",
+    "static/js/2.688eaeb9.chunk.js": "/BuzChat/static/js/2.688eaeb9.chunk.js",
+    "static/js/2.688eaeb9.chunk.js.map": "/BuzChat/static/js/2.688eaeb9.chunk.js.map",
+    "static/js/3.ae0b060f.chunk.js": "/BuzChat/static/js/3.ae0b060f.chunk.js",
+    "static/js/3.ae0b060f.chunk.js.map": "/BuzChat/static/js/3.ae0b060f.chunk.js.map",
+    "index.html": "/BuzChat/index.html",
+    "static/css/main.ac7051c4.chunk.css.map": "/BuzChat/static/css/main.ac7051c4.chunk.css.map",
+    "static/js/2.688eaeb9.chunk.js.LICENSE.txt": "/BuzChat/static/js/2.688eaeb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a66e436.js",
+    "static/js/2.688eaeb9.chunk.js",
+    "static/css/main.ac7051c4.chunk.css",
+    "static/js/main.e67cf0b1.chunk.js"
+  ]
+}
